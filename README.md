@@ -1,6 +1,3 @@
-This version replaces the GIF with a sleek, structured **Mermaid.js** diagram and further streamlines the text for maximum readability.
-
----
 
 # 🧠 LeNet-5 CNN: MNIST Recognition
 
